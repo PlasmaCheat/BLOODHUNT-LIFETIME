@@ -25,5 +25,5 @@
 * ESP Line
 * ESP Render sleep (in case you got a slow pc you can put a render delay)
 
-![](http://zupimages.net/up/22/27/uemd.png)
-![](http://https://zupimages.net/up/22/27/wyxp.png)
+http://zupimages.net/up/22/27/uemd.png
+http://https://zupimages.net/up/22/27/wyxp.png
