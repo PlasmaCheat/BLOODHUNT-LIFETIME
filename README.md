@@ -1,3 +1,5 @@
+Buy : https://shoppy.gg/product/jyukRun
+My Shop : https://shoppy.gg/@PlasmaCheat
 #  BLOODHUNT LIFETIME
 
 * ✅Easy Anti-Cheat (EAC): Undetected
@@ -25,4 +27,6 @@
 * ESP Line
 * ESP Render sleep (in case you got a slow pc you can put a render delay)
 
-![](http://https://zupimages.net/up/22/27/wyxp.png)
+![image](https://user-images.githubusercontent.com/109004173/178125557-3b87c694-dcc9-4607-8a1a-cab207f2fcf4.png)
+![image](https://user-images.githubusercontent.com/109004173/178125563-696e7922-828c-4c66-8a76-2001eb844bf5.png)
+
